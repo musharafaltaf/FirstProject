@@ -1,0 +1,24 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "making firts project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodeman src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musharafaltaf/FirstProject.git"
+  },
+  "author": "musharaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musharafaltaf/FirstProject/issues"
+  },
+  "homepage": "https://github.com/musharafaltaf/FirstProject#readme",
+  "dependencies": {
+    "d": "^1.0.2",
+    "nodeman": "^1.1.2"
+  }
+}
