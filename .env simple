@@ -1,0 +1,2 @@
+PORT=3000
+MONGODB_URL=mongodb+srv://musharafaltaf:musharafdar1234@cluster0.zpqtcna.mongodb.net
