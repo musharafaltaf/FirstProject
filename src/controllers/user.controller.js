@@ -19,7 +19,7 @@ const generateAccessTokenandRefreshToken = async(userId)=>{
     }
 }
 
-            // what i do
+            // what i do for registering
     // GET USER DETAILS FROM FRONTENT
     // VALIDATION - NOT EMPTY
     // CHECK IF USER ALREADY EXISTS  USERNAME,EMAIL
